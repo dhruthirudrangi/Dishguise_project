@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DISHGUISE - A Disguised Safety App for Domestic Violence Victims
 
 ## 📌 Overview
